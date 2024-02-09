@@ -145,14 +145,14 @@ https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 http://www.namewee.xyz/gudou.php?id=anhuiHD_7000
 #EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
-http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://www.namewee.xyz/gudou.php?id=heilongjiangHD_7000
 #EXTINF:-1 group-title="卫视" tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
 http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
