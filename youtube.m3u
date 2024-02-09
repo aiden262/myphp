@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1,广东卫视
+#EXTINF:-1 group-title="国际",,广东卫视
 https://iptv.luas.edu.cn/liverespath/15ffaebbcf96b0db07428df057c171c2743055e6/index.m3u8
-#EXTINF:-1,广东卫视
+#EXTINF:-1 group-title="国际",,广东卫视
 http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 group-title="国际",,深圳卫视
 https://iptv.luas.edu.cn/liverespath/32fa1d016709958f5c9ecf2cf131324ab37ed5de/index.m3u8
-#EXTINF:-1,GRTN文化频道
+#EXTINF:-1 group-title="国际",,GRTN文化频道
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1,揭阳公共频道
+#EXTINF:-1 group-title="国际",,揭阳公共频道
 https://1699055347.cloudvdn.com/a.m3u8?domain=hls-stjy.sobeylive.com&player=8tkAAIsQA2C52ZoX&secondToken=secondToken%3AYSBTSmyHb4XdT8cTxHHCakneHvw&sign=ce9ee28fdfa3aa69633e889fc31c21bb&streamid=stjy2020%3Astjy2020%2Fggpd&t=65632982&v3=1
-#EXTINF:-1,揭阳综合频道
+#EXTINF:-1 group-title="国际",,揭阳综合频道
 https://1699055347.cloudvdn.com/a.m3u8?domain=hls-stjy.sobeylive.com&player=8tkAALYcQjy_2ZoX&secondToken=secondToken%3AKUpBDnov3DtIuDDC73gtY04z_oU&sign=d4c71c30673bc41b2eb2a8cfed8621b3&streamid=stjy2020%3Astjy2020%2Fzhpd&t=65632982&v3=1
-#EXTINF:-1,云浮文旅频道
+#EXTINF:-1 group-title="国际",,云浮文旅频道
 http://livestream.oeeee.com/slive/17807.m3u8
-#EXTINF:-1,云浮综合频道
+#EXTINF:-1 group-title="国际",,云浮综合频道
 http://livestream.oeeee.com/slive/17806.m3u8
-#EXTINF:-1,阳江新闻综合频道
+#EXTINF:-1 group-title="国际",,阳江新闻综合频道
 https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8
-#EXTINF:-1,阳江公共频道
+#EXTINF:-1 group-title="国际",,阳江公共频道
 https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8
-#EXTINF:-1,河源公共频道
+#EXTINF:-1 group-title="国际",,河源公共频道
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1,河源综合频道
+#EXTINF:-1 group-title="国际",,河源综合频道
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1,佛山公共频道
+#EXTINF:-1 group-title="国际",,佛山公共频道
 https://xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8?txSecret=54711b961f99031be642ce50ed1bdc60&txTime=6561D987
-#EXTINF:-1,佛山南海频道
+#EXTINF:-1 group-title="国际",,佛山南海频道
 https://xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8?txSecret=241c5e305552e06784e3266cb5bf0447&txTime=6561D99B
-#EXTINF:-1,佛山三水频道
+#EXTINF:-1 group-title="国际",,佛山三水频道
 https://xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8?txSecret=6e9402e113dd9526cd7e542f409415fb&txTime=6561D9A4
-#EXTINF:-1,佛山高明频道
+#EXTINF:-1 group-title="国际",,佛山高明频道
 https://xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8?txSecret=c3d6ad53ba878f37a37907c2991ff121&txTime=6561D9AE
-#EXTINF:-1,佛山影视频道
+#EXTINF:-1 group-title="国际",,佛山影视频道
 https://xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8?txSecret=20725092d2063aa60c15d6b528aa8ee4&txTime=6561D9B5
-#EXTINF:-1,佛山顺德频道
+#EXTINF:-1 group-title="国际",,佛山顺德频道
 https://xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8?txSecret=d77933b6b8efa03c94b07a2b653d2fa6&txTime=6561D9BE
-#EXTINF:-1,佛山新闻综合频道
+#EXTINF:-1 group-title="国际",,佛山新闻综合频道
 https://xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8?txSecret=a7b8e7f8badd39a8ea468480fe7327dc&txTime=6561D9CC
-#EXTINF:-1,广州电视台竞赛频道
+#EXTINF:-1 group-title="国际",,广州电视台竞赛频道
 https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=6561f54d&txSecret=948c5f6f9079520a9b1299fa920ce702
-#EXTINF:-1,广州法治频道
+#EXTINF:-1 group-title="国际",,广州法治频道
 https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=6561f540&txSecret=8a881b118300bd7357577856462cb645
-#EXTINF:-1,广州电视台综合频道
+#EXTINF:-1 group-title="国际",,广州电视台综合频道
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6561f561&txSecret=2aaf4f106b8dea041430cd35975080a1
-#EXTINF:-1,广州影视频道
+#EXTINF:-1 group-title="国际",,广州影视频道
 https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=6561f56a&txSecret=59e4c2cd83722309311adeac02c47792
-#EXTINF:-1,广州南国都市4K
+#EXTINF:-1 group-title="国际",,广州南国都市4K
 https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6561f571&txSecret=873cdc87a4903471a088b4f1fff3bfff
-#EXTINF:-1,广州生活频道
+#EXTINF:-1 group-title="国际",,广州生活频道
 https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6561f580&txSecret=0102c6838b75df4f4d7caa35f7110d9a
-#EXTINF:-1,广州新闻频道
+#EXTINF:-1 group-title="国际",,广州新闻频道
 https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=6561f594&txSecret=6492e83ca268ab6b31547a2d1392842f
-#EXTINF:-1,汕头新闻综合频道
+#EXTINF:-1 group-title="国际",,汕头新闻综合频道
 https://sttv-tsl.cutv.com/lKGXIQa/x2sl9G0.m3u8
-#EXTINF:-1,深圳龙岗频道
+#EXTINF:-1 group-title="国际",,深圳龙岗频道
 http://lglivepull.sznews.com/showto_live/2647.m3u8
