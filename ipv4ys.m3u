@@ -59,6 +59,10 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/inde
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://www.namewee.xyz/gudou.php?id=sichuanHD_7000
+#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
 http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
@@ -135,8 +139,6 @@ http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="卫视" tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
-http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
 http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
