@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="广东",普宁台
+http://lu1.cc/itv/php/itouch.php?id=pnzh
 #EXTINF:-1 group-title="广东",揭阳综合
 https://api.5200520.xyz/api/88.php?id=11
 #EXTINF:-1 group-title="广东",揭阳生活
