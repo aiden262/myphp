@@ -48,6 +48,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://www.namewee.xyz/gudou.php?id=guangdongHD_7000
+#EXTINF:-1 group-title="卫视" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 group-title="卫视" tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
