@@ -1,4 +1,4 @@
-央视
+央视,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-2 财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3 综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -21,7 +21,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CGTN新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-卫视
+卫视,#genre#
 北京卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 湖南卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 东方卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
@@ -52,7 +52,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-地方
+地方,#genre#
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 都市青春,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金色学堂,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
@@ -99,7 +99,7 @@ CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 山西法治,http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
 山西文体,http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
 南京新综,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757093737_-1595882577/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-数字
+数字,#genre#
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 乐游频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
@@ -142,7 +142,7 @@ CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 魅力潇湘,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
 精品萌宠,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
-国际
+国际,#genre#
 CNN International,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 BBC News,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
 FOX New York,http://38.96.178.201:80/live/FOXHD/index.m3u8
@@ -199,7 +199,7 @@ HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 &Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-广东
+广东,#genre#
 普宁台,http://lu1.cc/itv/php/itouch.php?id=pnzh
 揭阳综合,https://api.5200520.xyz/api/88.php?id=11
 揭阳综合,http://www.namewee.xyz/gudou.php?id=jieyangyitao_1500
