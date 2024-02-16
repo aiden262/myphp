@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东",普宁台
+http://ci.emdoor.tech:8080/touchtv.php?pk=2450
+#EXTINF:-1 group-title="广东",普宁台
 http://lu1.cc/itv/php/itouch.php?id=pnzh
 #EXTINF:-1 group-title="广东",揭阳综合
 https://api.5200520.xyz/api/88.php?id=11
@@ -13,6 +15,10 @@ http://www.namewee.xyz/gudou.php?id=jieyangertao_1500
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 #EXTINF:-1 group-title="广东",潮州民生
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+#EXTINF:-1 group-title="广东",汕头经济生活
+http://183.238.248.84:9000/udp/239.21.0.102:3748
+#EXTINF:-1 group-title="广东",汕头文旅体育
+http://183.238.248.84:9000/udp/239.21.0.103:3752
 #EXTINF:-1 group-title="广东",汕尾新闻综合
 http://www.namewee.xyz/gudou.php?id=shanweiyitao_1500
 #EXTINF:-1 group-title="广东",汕尾文化生活
