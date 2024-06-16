@@ -1,8 +1,10 @@
 {
-  "regions": ["sfo1"],
-  "functions": {
-    "api/*.php": {
-      "runtime": "vercel-php@0.7.1"
-    }
-  }
+    "functions": {
+        "api/*.php": {
+            "runtime": "vercel-php@0.7.1"
+        }
+    },
+    "regions": [
+        "hkg1"
+    ]
 }
